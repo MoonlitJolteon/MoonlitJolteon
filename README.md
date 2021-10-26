@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoonlitJolteon&theme=dark">
+</p>
 
 <!--
 **MoonlitJolteon/MoonlitJolteon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
