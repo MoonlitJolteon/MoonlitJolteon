@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.35k added, 364 removed
+                                    22.9k added, 5.77k removed
                                 </div>
                             </section>
                             <section>
@@ -421,14 +421,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.7108203332728" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="351.7108203332728" y="0" width="33.536960267232686" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.2477806005055" y="0" width="28.250822246912954" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="413.49860284741845" y="0" width="27.053469318945883" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.5520721663643" y="0" width="10.192171128897984" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="450.7442432952623" y="0" width="4.067826176384249" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.81206947164657" y="0" width="2.745019165691947" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="457.55708863733855" y="0" width="2.442911362661496" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.9672009792303" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="351.9672009792303" y="0" width="33.45755965155505" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.42476063078533" y="0" width="28.183936856527822" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="413.6086974873131" y="0" width="26.989418728104493" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.59811621541763" y="0" width="10.16804059779803" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="450.7661568132157" y="0" width="4.058195372032844" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.82435218524853" y="0" width="2.7385201803913675" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.56287236563986" y="0" width="2.437127634360075" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -440,8 +440,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.35 MB</div>
-                                <div>76.46%</div>
+                                <div>2.36 MB</div>
+                                <div>76.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -453,7 +453,7 @@
                             </div>
                             <small>
                                 <div>188 kB</div>
-                                <div>6.14%</div>
+                                <div>6.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -465,7 +465,7 @@
                             </div>
                             <small>
                                 <div>68 kB</div>
-                                <div>2.22%</div>
+                                <div>2.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -491,7 +491,7 @@
                             </div>
                             <small>
                                 <div>224 kB</div>
-                                <div>7.29%</div>
+                                <div>7.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -503,7 +503,7 @@
                             </div>
                             <small>
                                 <div>180 kB</div>
-                                <div>5.88%</div>
+                                <div>5.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1977,7 +1977,7 @@ Fixes Hotkeys not working and adds the sand spreading tub. A faster way of multi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.02m out of 117m users</span>
+                                    <span class="gh">ranked 2.84m out of 117m users</span>
                                 </div>
                                 <div class="text">Published 17 public repositories</div>
                             </div>
@@ -2347,7 +2347,7 @@ Fixes Hotkeys not working and adds the sand spreading tub. A faster way of multi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2023, 20:50:47 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jun 2023, 23:13:59 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
