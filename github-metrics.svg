@@ -2155,7 +2155,7 @@ Co-authored-by: Moonlit Productions &lt;17845632+MoonlitJolteon@users.noreply.gi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 725k out of 84.3m repositories</span>
+                                    <span class="gh">ranked 725k out of 102m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 16 times</div>
                             </div>
@@ -2234,7 +2234,7 @@ Co-authored-by: Moonlit Productions &lt;17845632+MoonlitJolteon@users.noreply.gi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.25m out of 84.3m repositories</span>
+                                    <span class="gh">ranked 1.25m out of 102m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 18 stars</div>
                             </div>
@@ -2405,7 +2405,7 @@ Co-authored-by: Moonlit Productions &lt;17845632+MoonlitJolteon@users.noreply.gi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2024, 11:03:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2024, 14:02:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
